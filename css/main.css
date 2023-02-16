@@ -1,0 +1,19 @@
+/* =fa owerwrites */
+.fa-10x {
+  font-size: 10vw;
+}
+
+/* =bootstrap */
+#home-articles-filter {
+  border-radius: var(--bs-nav-pills-border-radius);
+  /* background: rgb(33 37 41 / 10%); */
+}
+#home-articles-filter a {
+  color: #00b4ff;
+}
+#home-articles-filter .active {
+  background: #00b4ff;
+  color: var(--bs-nav-pills-link-active-color);
+}
+
+/* =general */
